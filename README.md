@@ -1,1 +1,1 @@
-# odin-recipes
+This project utilizes HTML knowledge that I've learned in the past few days. The project consists of a main index and some links to a few recipes.
